@@ -1,0 +1,1 @@
+# stikerpack-react-clases
