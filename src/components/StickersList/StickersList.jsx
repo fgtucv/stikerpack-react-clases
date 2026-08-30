@@ -2,6 +2,8 @@ import { Component } from "react";
 import { StickerListStyle } from "./StykersList.styled.js";
 import { Sticker } from "../Sticker/Sticker.jsx";
 
+
+
 export class StickersList extends Component {
   changedStiker = (newStiker) => {
     this.props.choicedStiker(newStiker)
